@@ -1,5 +1,5 @@
 # Rota de Caminhões
-Projeto da disciplinaa de projeto integrador IV
+Projeto da disciplina de projeto integrador IV
 
 Software para determinar as melhores rotas possíveis percorridas pelos veículos para distribuição de
 uma empresa. O usuário definirá uma localização relativa de cada ponto de entrega, e a distância
